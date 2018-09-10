@@ -14,7 +14,7 @@ La prima cosa è assicurarsi di essere nella cartella `djangogirls` che abbiamo 
 
 Per verificare puoi digitare un comando che ti dirà in quale directory sei attualmente:
 
-<!--sec data-title="macOS e Linux" data-id="OSX_Linux_pwd2" data-collapse=true ces-->
+<!--sec data-title="macOS e Linux" data-id="OSX_Linux_pwd_djangostart" data-collapse=true ces-->
 
 {% filename %}command-line{% endfilename %}
 {% pre prompt="$", language="bash", output="2" %}
@@ -24,7 +24,7 @@ pwd
 
 <!--endsec-->
 
-<!--sec data-title="Windows" data-id="windows_cd2" data-collapse=true ces-->
+<!--sec data-title="Windows" data-id="windows_cd_djangostart" data-collapse=true ces-->
 
 {% filename %}command-line{% endfilename %}
 {% pre prompt=">", language="powershell", output="2" %}
@@ -36,7 +36,7 @@ C:\Users\olasitarska\djangogirls
 
 Se dovessi vedere un percorso diverso (a parte il nome `olasitarska`), puoi accedere alla cartella con questi comandi
 
-<!--sec data-title="macOS e Linux" data-id="OSX_Linux_pwd2" data-collapse=true ces-->
+<!--sec data-title="macOS e Linux" data-id="OSX_Linux_pwd_djangostart2" data-collapse=true ces-->
 
 {% filename %}command-line{% endfilename %}
 {% pre prompt="$", language="bash", output="2" %}
